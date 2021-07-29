@@ -155,19 +155,16 @@ footer p {
 
  }
  .form div {
-   margin:12px;
+   margin: 12px;;
  }
- .name {
+ .about-group {
    display:flex;
    align-items: center;
  }
- .name div {
+ .about-group div {
    margin:12px;
  }
- .name .image1 {
-  width:300px;
-   }
- .name .image2 {
+ .about-group .group-item {
   width:300px;
    }
    .idea-group {
